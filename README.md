@@ -1,6 +1,6 @@
 # NameLess
 
-Nameless a social networking application that allows users to connect anonymously
+Nameless a social networking application that allows users to connect anonymously.
 
 ## Features
 
